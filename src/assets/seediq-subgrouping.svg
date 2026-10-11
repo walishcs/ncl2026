@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1018pt" height="502pt"
+ viewBox="0 0 1036 502" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Seediq subgrouping</title>
+<desc id="desc">Seediq divides into Tgdaya and Toda-Truku; Toda-Truku divides into Toda and Truku, each with central and eastern varieties.</desc>
+<rect width="1036" height="502" fill="white"/>
+
+<!-- Branches -->
+<g fill="none" stroke="black" stroke-width="1.15">
+  <path d="M509 54 L85 412"/>
+  <path d="M509 54 L612.5 126"/>
+  <path d="M612.5 184 L397 278"/>
+  <path d="M612.5 184 L828 278"/>
+  <path d="M397 318 L294 412"/>
+  <path d="M397 318 L500 412"/>
+  <path d="M828 318 L725 412"/>
+  <path d="M828 318 L931 412"/>
+</g>
+
+<!-- Internal nodes -->
+<g fill="black" font-family="Libertinus Serif, serif" font-size="32" text-anchor="middle">
+  <text x="509" y="42">Seediq</text>
+  <text x="612.5" y="173">Toda-Truku</text>
+  <text x="397" y="307">Toda</text>
+  <text x="828" y="307">Truku</text>
+</g>
+
+<!-- Terminal nodes -->
+<g fill="black" font-family="Libertinus Serif, 'Noto Serif CJK TC', 'Songti TC', serif" font-size="32" text-anchor="middle">
+  <text x="85" y="451">Tgdaya</text>
+  <text x="85" y="487" font-size="26">德固達雅</text>
+
+  <text x="294" y="451">Central Toda</text>
+  <text x="294" y="487" font-size="26">都達（中部）</text>
+
+  <text x="500" y="451">Eastern Toda</text>
+  <text x="500" y="487" font-size="26">督達（東部）</text>
+
+  <text x="725" y="451">Central Truku</text>
+  <text x="725" y="487" font-size="26">德鹿谷（中部）</text>
+
+  <text x="931" y="451">Eastern Truku</text>
+  <text x="931" y="487" font-size="26">太魯閣（東部）</text>
+</g>
+</svg>

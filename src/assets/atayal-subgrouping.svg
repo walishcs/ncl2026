@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1018pt" height="502pt"
+ viewBox="0 0 1036 502" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Atayal subgrouping</title>
+<desc id="desc">Atayal subgrouping with Northern Atayal and Southern Atayal branches and seven terminal varieties.</desc>
+<rect width="1036" height="502" fill="white"/>
+
+<!-- Branches -->
+<g fill="none" stroke="black" stroke-width="1.15">
+  <path d="M503 54 L181 88"/>
+  <path d="M503 54 L825 88"/>
+
+  <path d="M181 143 L290 175"/>
+  <path d="M181 143 L72 412"/>
+  <path d="M290 266 L215 412"/>
+  <path d="M290 266 L365 412"/>
+
+  <path d="M825 143 L695 175"/>
+  <path d="M825 143 L955 412"/>
+  <path d="M695 266 L590 290"/>
+  <path d="M695 266 L800 412"/>
+  <path d="M590 382 L520 412"/>
+  <path d="M590 382 L660 412"/>
+</g>
+
+<!-- Internal nodes -->
+<g fill="black" font-family="Libertinus Serif, serif" font-size="32" text-anchor="middle">
+  <text x="503" y="42">Atayal</text>
+  <text x="181" y="132">Northern Atayal</text>
+  <text x="825" y="132">Southern Atayal</text>
+
+  <text x="290" y="215">Nuclear</text>
+  <text x="290" y="253">Northern Atayal</text>
+
+  <text x="695" y="215">Nuclear</text>
+  <text x="695" y="253">Southern Atayal</text>
+
+  <text x="590" y="330">Southwestern</text>
+  <text x="590" y="368">Atayal</text>
+</g>
+
+<!-- Terminal nodes -->
+<g fill="black" font-family="Libertinus Serif, 'Noto Serif CJK TC', 'Songti TC', serif" font-size="32" text-anchor="middle">
+  <text x="72" y="451">Matu’uwal</text>
+  <text x="72" y="487" font-size="26">汶水</text>
+
+  <text x="215" y="451">Skikun</text>
+  <text x="215" y="487" font-size="26">四季</text>
+
+  <text x="365" y="451">Squliq</text>
+  <text x="365" y="487" font-size="26">賽考利克</text>
+
+  <text x="520" y="451">S’uli</text>
+  <text x="520" y="487" font-size="26">澤敖利</text>
+
+  <text x="660" y="451">Matu’aw</text>
+  <text x="660" y="487" font-size="26">大興</text>
+
+  <text x="800" y="451">Klesan</text>
+  <text x="800" y="487" font-size="26">宜蘭澤敖利</text>
+
+  <text x="955" y="451">Plngawan</text>
+  <text x="955" y="487" font-size="26">萬大</text>
+</g>
+</svg>
