@@ -451,7 +451,7 @@ function SeediqSubgroupingSlide() {
 }
 
 function SeediqThirdPersonSlide() {
-  return <SlideFrame id="seediq-third-person" eyebrow="第三節　原始賽德克語" title="相似形式，不同的歷史">
+  return <SlideFrame id="seediq-third-person" eyebrow="第三節　原始賽德克語" title="第三人稱單、複數">
     <div className="third-person-comparison">
       <div><h3>Tgdaya <span>類推整平</span></h3><div className="form-pair"><span>3sg</span><LinguisticForm>*hiya → <strong>heya</strong></LinguisticForm></div><div className="form-pair"><span>3pl</span><LinguisticForm>*dəhəya → deheya</LinguisticForm></div></div>
       <div><h3>Toda-Truku <span>規則音變</span></h3><div className="form-pair"><span>3sg</span><LinguisticForm>*hiya → hiya</LinguisticForm></div><div className="form-pair"><span>3pl</span><LinguisticForm>*dəhəya → <strong>dəhiya</strong></LinguisticForm></div></div>
@@ -485,7 +485,7 @@ const paicPages: CorpusPage[] = [
   { id: 'paic-oblique-plural', title: '斜格自由式：複數', source: 'paic-obl',
     indices: [3, 4, 5, 6], columns: ['1pl.incl.obl', '1pl.excl.obl', '2pl.obl', '3pl.obl'], widths: [14, 22, 22, 22, 20],
     emphasis: ['PAta:3', 'PAta:4', 'PAta:5', 'PAta:6'], cellDescriptions: {'PAta:6': '倒轉重建'}, },
-  { id: 'paic-portmanteau', title: '融合式：形式與功能分開比較', source: 'paic-portmanteau',
+  { id: 'paic-portmanteau', title: '融合式', source: 'paic-portmanteau',
     indices: [0, 1, 2], columns: ['1sg.gen + 2sg.nom', '2sg.gen + 1sg.nom', '1sg.gen + 2pl.nom'], widths: [16, 28, 28, 28],
     emphasis: ['PAta:2'], cellDescriptions: {'PAta:2': '功能：1sg.gen'}, },
 ];
